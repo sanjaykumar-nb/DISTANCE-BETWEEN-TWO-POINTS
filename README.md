@@ -13,6 +13,9 @@ using the print function, display the distance between the two points.
 End the program
 ### PROGRAM:
 ```
+# Program Name : DISTANCE-BETWEEN-TWO-POINTS
+# Name : SANJAYKUMAR N B
+# Register Number : 212223230189
 x1,y1=[4,2]
 x2,y2=[10,6]
 
