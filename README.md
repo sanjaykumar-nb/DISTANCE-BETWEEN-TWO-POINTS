@@ -25,7 +25,6 @@ print('{:.2f}'.format(d))
 
 
 ### OUTPUT:
-![Screenshot 2024-03-09 055617](https://github.com/sanjaykumar-nb/DISTANCE-BETWEEN-TWO-POINTS/assets/154039979/3763502a-865c-4cc9-8341-37a2289ea44d)
-
+![alt text](<Screenshot 2024-04-09 071507.png>)
 ### RESULT:
 Thus the distance of the two points is sucessfully executed and displayed.
